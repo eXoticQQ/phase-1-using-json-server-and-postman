@@ -1,5 +1,5 @@
 {
-  "articles": [
+  "My-First-Ever-website": [
     {
       "id": 1,
       "title": "Example Article",
@@ -9,6 +9,16 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "One more example C:",
+      "id": 4
     }
   ]
 }
